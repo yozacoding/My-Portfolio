@@ -1,0 +1,44 @@
+
+body {
+      font-family: sans-serif, serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #333 ;
+    }
+    header {
+      background: #0077cc;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 1rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h2 {
+      color: #0077cc;
+    }
+    .project {
+      background: #fff;
+      border: 1px solid #ddd;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 6px;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background: #eee;
+      margin-top: 2rem;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    /*Commit 2*/
